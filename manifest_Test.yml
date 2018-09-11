@@ -1,0 +1,6 @@
+---
+applications:
+- name: Maven-App
+  memory: 1024M
+  host: Maven-app-test
+  path: target/spring-test-mvc-configuration.war
