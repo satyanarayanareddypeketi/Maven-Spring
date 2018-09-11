@@ -2,5 +2,5 @@
 applications:
 - name: Maven-App
   memory: 1024M
-  host: spring-music-app-dev
+  host: Maven-app-dev
   path: target/spring-test-mvc-configuration.war
