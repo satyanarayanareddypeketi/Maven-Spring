@@ -1,6 +1,6 @@
 ---
 applications:
-- name: Maven-App
+- name: taskslist
   memory: 1024M
-  host: Maven-app-test
+  host: taskslist-test
   path: target/spring-test-mvc-configuration.war
